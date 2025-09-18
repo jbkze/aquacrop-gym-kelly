@@ -1,4 +1,4 @@
-aquacrop==1.1.2
+git+https://github.com/jbkze/aquacrop-waterstress.git@master-1.1.2
 aquacropeto==0.1.1
 numpy==1.21.2
 lz4
